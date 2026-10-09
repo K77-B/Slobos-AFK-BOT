@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "KMA",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "K77_B-EeP3.aternos.me:26263",
+    "ip": "K77_B-EeP3.aternos.me",
     "port": 26263,
     "version": "1.21.1"
   },
